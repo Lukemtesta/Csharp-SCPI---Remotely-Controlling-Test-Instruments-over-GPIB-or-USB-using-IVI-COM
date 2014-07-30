@@ -1,0 +1,6 @@
+Sig_Gen GPIB0::19::INSTR
+Arb_Gen GPIB0::10::INSTR
+Microbot COM3
+Oscilloscope GPIB0::7::INSTR
+Signal_analyser GPIB0::28::INSTR
+MG3700 GPIB0::3::INSTR
